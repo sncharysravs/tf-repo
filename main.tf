@@ -13,7 +13,7 @@ terraform {
 	ami = "ami-0ed99df77a82560e6"
 	instance_type ="t2.micro"
 	tags = {
-		Name = "dev_inst"
+		Name = "modify-tag"
 	}
 }
 
